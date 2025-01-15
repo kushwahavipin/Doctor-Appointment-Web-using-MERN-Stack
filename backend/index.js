@@ -8,7 +8,7 @@ import doctorRoutes from "./routes/doctorRoutes.js";
 import reviewRoutes from "./routes/reviewRoutes.js";
 import dotenv from "dotenv";
 dotenv.config();
-
+//express js
 const app = express();
 const PORT = process.env.PORT || 5000;
 
